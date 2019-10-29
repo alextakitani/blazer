@@ -3,6 +3,8 @@
 //= require ./stupidtable
 //= require ./stupidtable-custom-settings
 //= require ./jquery.stickytableheaders
+//= require ./sifter
+//= require ./microplugin
 //= require ./selectize
 //= require ./highlight.min
 //= require ./moment
