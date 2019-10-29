@@ -2,7 +2,6 @@
 //= require ./jquery-ujs
 //= require ./stupidtable
 //= require ./jquery.stickytableheaders
-//= require ./sifter
 //= require ./selectize
 //= require ./highlight.min
 //= require ./moment
